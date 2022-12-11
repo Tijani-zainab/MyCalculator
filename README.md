@@ -1,4 +1,4 @@
 # MyCalculator
 ### Standard simple javascript calculator
-[Preview Calculator](https://calculaot.netlify.app/ 🔗
+[Preview Calculator](https://calculaot.netlify.app/) 🔗
 
